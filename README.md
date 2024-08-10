@@ -83,10 +83,7 @@
 
 
 <h2><strong>❤️❤️❤️ Youtube Online Video List</strong></h2>
-<table>
-    <tr>
-        <td>
-            <a href="https://youtu.be/htreriazXoY" terget="_blank">
+<table><tr><td><a href="https://youtu.be/htreriazXoY" terget="_blank">
                 <img src="https://i.ibb.co/1YVTnvy/01active.png"
                      alt="Whatsapp Bulk Sender | Group Sender |Auto Reply App +License Generate Key App-video-how to active" />
             </a>
