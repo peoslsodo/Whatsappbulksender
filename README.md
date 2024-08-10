@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/be745efc-8162-4870-9eed-421207270ee3)# Whatsapp Bulk Sender | Group Sender |Auto Reply App +License KeyGen App-Full Reseller 3.2.8
+# Whatsapp Bulk Sender | Group Sender |Auto Reply App +License KeyGen App-Full Reseller 3.2.8
 
 ❤️Free Download: 👉  https://bit.ly/wabulksenderresell
 
