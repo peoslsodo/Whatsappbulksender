@@ -276,10 +276,7 @@
 
 
 <h2><strong>Amazing Features</strong></h2>
-<ul>
-
-
-    <li><p><strong>✅Install File</strong>---We have created an installation file to make it easier for users to use.</p>
+<ul><li><p><strong>✅Install File</strong>---We have created an installation file to make it easier for users to use.</p>
     <li> <p>
             <strong>✅Local Database</strong>---You can edit, modify, delete and save your local messages with a local
             database.
